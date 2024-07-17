@@ -1,0 +1,10 @@
+{
+  "configurations": [
+    {
+      "name": "Flutter (lib/widgets/selection_canvas.dart)",
+      "type": "dart",
+      "request": "launch",
+      "program": "lib/widgets/selection_canvas.dart"
+    }
+  ]
+}
